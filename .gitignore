@@ -1,0 +1,8 @@
+
+*.DS_Store
+*.idea/
+*bin/
+*target/
+
+# Don't push library dependencies
+org\.eclipse\.epsilon\.emc\.antlr\.dependencies/lib/
